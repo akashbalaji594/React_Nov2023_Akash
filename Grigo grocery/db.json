@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "fname": "dinesh",
+      "lname": "kumar",
+      "email": "727722euit042@skcet.ac.in",
+      "password": "dinesh@123",
+      "id": 1
+    },
+    {
+      "fname": "akash",
+      "lname": "balaji",
+      "email": "727722euit012@skcet.ac.in",
+      "password": "akash",
+      "id": 2
+    },
+    {
+      "fname": "agilan",
+      "lname": "p",
+      "email": "727722euit007@skcet.ac.in",
+      "password": "agi",
+      "id": 3
+    },
+    {
+      "fname": "",
+      "lname": "",
+      "email": "",
+      "password": "",
+      "id": 4
+    }
+  ]
+}
